@@ -17,7 +17,7 @@ xy = the path of the fix on your computer.
 
 Example:
 
-![Modular Image Creation](https://cdn.discordapp.com/attachments/697226271222005803/708304735710478416/carillon_cmd.png)
+![Modular Image Creation](https://cdn.discordapp.com/attachments/697226271222005803/708307028509982811/carillon.png)
 
 Have fun!
 
