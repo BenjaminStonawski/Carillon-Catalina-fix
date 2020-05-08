@@ -1,0 +1,5 @@
+#!/bin/bash
+echo Welcome to the Carillon for Catalina fixer! Created by Benjamin Stonawski;
+sudo mv ./CC/Carillon /usr/local/bin/
+sudo mv ./CC/com.nicoswd.Carillon.plist /System/Library/LaunchDaemons
+echo Done!
