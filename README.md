@@ -1,9 +1,7 @@
 # Carillon Catalina fix
-Boot Chime for Hackintosh Catalina.
+Boot Chime for Hackintosh.
 
-This is the repaired version of Carillon which works on Catalina.
-
-NOTE: That version works on Sierra, High Sierra, Mojave and Catalina as well!
+This is the repaired version of Carillon which works on Sierra, High Sierra, Mojave and Catalina as well!
 
 # How to install it
 
