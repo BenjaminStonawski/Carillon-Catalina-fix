@@ -5,6 +5,8 @@ This is the repaired version of Carillon which works on Catalina.
 
 NOTE: That version works on Sierra, High Sierra, Mojave and Catalina as well!
 
+# How to install it
+
 IMPORTANT: you need to run the "Carillon-Catalina" file from the terminal! 
 
 1: cd /xy/Carillon-Catalina-fix/
